@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BatX
 // @namespace    BatX
-// @version      0.1
+// @version      0.2
 // @description  BatX does, uh, batty things. Totally normal batty things.
 // @author       Batty!
 // @match        *://e621.net/*
