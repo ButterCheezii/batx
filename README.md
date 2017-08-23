@@ -12,3 +12,6 @@ Have fun
 
 - `script.js` is a tampermonkey script
 - `style.css` is a CSS file you need to inject with something, I use stylish
+
+# Screenshot
+![screenshot](screenshot.png)
