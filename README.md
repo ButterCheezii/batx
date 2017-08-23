@@ -1,9 +1,14 @@
 # batx
 making e621 better
 
-# how to use
-alt-click on an image / link to open the improved version
+# How to use
+Alt-click on an image / link to open the improved version
 
-that's literally all it does
+That's literally all it does
 
-have fun
+Have fun
+
+# How to install
+
+`script.js` is a tampermonkey script
+`style.css` is a CSS file you need to inject with something, I use stylish
