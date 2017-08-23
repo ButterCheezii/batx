@@ -10,7 +10,7 @@ Have fun
 
 # How to install
 
-- `script.js` is a tampermonkey script
+- `script.user.js` is a tampermonkey script
 - `style.css` is a CSS file you need to inject with something, I use stylish
 
 # Screenshot
