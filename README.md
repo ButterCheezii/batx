@@ -17,4 +17,4 @@
 > ![screenshot](screenshot.png)
 > (this is a random post I found while looking for a quick example)
 
-Contact me for more details, the version in this repo is both outdated and unsupported
+Contact me personally for details, the BatX version in this repo is both outdated and unsupported
